@@ -1,4 +1,4 @@
-# gfh
+# Go Fund Hope
 Go Fund Hope is a Web3 crowdfunding app. 
 
 - Third Web
